@@ -1,4 +1,4 @@
-# 🚀 Node.js API Panes Practice
+# 🚀 Node.js API Practice Lang
 
 ![Demo Gif](https://media4.giphy.com/media/WPtzThAErhBG5oXLeS/giphy.gif?cid=ecf05e475k91mw740f0mi0c2l7lqs6oteeav6hmtagthvgv7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
