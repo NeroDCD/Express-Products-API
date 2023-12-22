@@ -1,15 +1,19 @@
 # 🚀 Node.js API Practice Lang
 
-<img align="left" src="https://giffiles.alphacoders.com/219/219526.gif" alt="Demo Gif" width="300">
+<div style="display: flex;">
+  <div style="width: 300px; margin-right: 20px;">
+    <img src="https://giffiles.alphacoders.com/219/219526.gif" alt="Demo Gif" width="300">
+  </div>
 
+  <div style="flex: 1;">
+    This project is designed to teach you how to create a Restful CRUD API with Node.js, Express, and MongoDB.
 
+    If you want to learn how the project is developed, check out the video tutorials by Devtamin:
+    - [Part 1](https://www.youtube.com/watch?v=FPYlicctQMM&list=PLbKN8A2wssqUlVHRBeJIgIvkbyrX4kR0V)
+    - [Part 2](https://www.youtube.com/watch?v=9OfL9H6AmhQ&feature=youtu.be)
+  </div>
+</div>
 
-&nbsp;&nbsp;&nbsp;This project is designed to teach you how to create a Restful CRUD API with Node.js, Express, and MongoDB.
+## API Features
 
-&nbsp;&nbsp;&nbsp;If you want to learn how the project is developed, check out the video tutorials by Devtamin:
-&nbsp;&nbsp;&nbsp;- [Part 1](https://www.youtube.com/watch?v=FPYlicctQMM&list=PLbKN8A2wssqUlVHRBeJIgIvkbyrX4kR0V)
-&nbsp;&nbsp;&nbsp;- [Part 2](https://www.youtube.com/watch?v=9OfL9H6AmhQ&feature=youtu.be)
-
-&nbsp;&nbsp;&nbsp;## API Features
-
-&nbsp;&nbsp;&nbsp;The application can create, read, update, and delete data (e.g., products) in a database. 📦📚
+The application can create, read, update, and delete data (e.g., products) in a database. 📦📚
