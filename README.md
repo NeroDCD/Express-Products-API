@@ -2,7 +2,7 @@
 
 <img align="left" src="https://giffiles.alphacoders.com/219/219526.gif" alt="Demo Gif" width="300">
 
-&nbsp; <!-- Add space here -->
+&nbsp;&nbsp;&nbsp;  <!-- Add space here -->
 
 This project is designed to teach you how to create a Restful CRUD API with Node.js, Express, and MongoDB.
 
