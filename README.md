@@ -1,6 +1,7 @@
 # 🚀 Node.js API Practice Lang
 
 <img src="https://giffiles.alphacoders.com/219/219526.gif" alt="Demo Gif" width="300">
+<img src="https://i.gifer.com/4aMN.gif" alt="Second Image" width="300">
 
 This project is designed to teach you how to create a Restful CRUD API with Node.js, Express, and MongoDB.
 
