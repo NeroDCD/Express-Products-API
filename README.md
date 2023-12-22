@@ -1,6 +1,6 @@
 # 🚀 Node.js API Practice Lang
 
-<div style="margin-left: 20px; margin-bottom: 20px;">
+<div style="margin-left: 202px; margin-bottom: 20px;">
   <img align="left" src="https://giffiles.alphacoders.com/219/219526.gif" alt="Demo Gif" width="300">
 </div>
 
