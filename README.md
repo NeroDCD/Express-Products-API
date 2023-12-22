@@ -4,7 +4,7 @@
 
 This project is designed to teach you how to create a Restful CRUD API with Node.js, Express, and MongoDB.
 
-If you want to learn how the project is developed, check out the video tutorials:
+If you want to learn how the project is developed, check out the video tutorials by Devtamin:
 - [Part 1](https://www.youtube.com/watch?v=FPYlicctQMM&list=PLbKN8A2wssqUlVHRBeJIgIvkbyrX4kR0V)
 - [Part 2](https://www.youtube.com/watch?v=9OfL9H6AmhQ&feature=youtu.be)
 
