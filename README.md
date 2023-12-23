@@ -1,4 +1,4 @@
-# 🚀 Node.js API Practice Lang
+# 🚀 Express JS Practice Lang
 
 <img src="https://giffiles.alphacoders.com/219/219526.gif" alt="Demo Gif" width="300">
 
