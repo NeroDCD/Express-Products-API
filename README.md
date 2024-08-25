@@ -8,10 +8,16 @@ This project is built as part of my exploration into creating a RESTful CRUD API
   </a>
 </p>
 
-**Watch the tutorial series:**
+## ⚙️ Tech Stack
+
+- **NodeJS**
+- **ExpressJS**
+- **MongoDB**
+  
+## 📺 Watch the tutorial series:
 - [Part 1](https://www.youtube.com/watch?v=FPYlicctQMM&list=PLbKN8A2wssqUlVHRBeJIgIvkbyrX4kR0V)
 - [Part 2](https://www.youtube.com/watch?v=9OfL9H6AmhQ&feature=youtu.be)
 
-## API Features
+## 🚀 API Features
 
 This application demonstrates how to create, read, update, and delete (CRUD) data, such as products, within a database. 📦📚
