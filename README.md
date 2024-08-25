@@ -15,8 +15,8 @@ This project is built as part of my exploration into creating a RESTful CRUD API
 - **MongoDB**
   
 ## 📺 Watch the tutorial series:
-- [Part 1](https://www.youtube.com/watch?v=FPYlicctQMM&list=PLbKN8A2wssqUlVHRBeJIgIvkbyrX4kR0V)
-- [Part 2](https://www.youtube.com/watch?v=9OfL9H6AmhQ&feature=youtu.be)
+- [♦️ How to Create Node.js and Express Project from Scratch](https://www.youtube.com/watch?v=FPYlicctQMM&list=PLbKN8A2wssqUlVHRBeJIgIvkbyrX4kR0V)
+- [♦️ Build Restful CRUD API with Node.js, Express and MongoDB](https://www.youtube.com/watch?v=9OfL9H6AmhQ&feature=youtu.be)
 
 ## 🚀 API Features
 
